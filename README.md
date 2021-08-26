@@ -1,11 +1,15 @@
-# Translation English to Hinglish
+# Translation English to Hinglish 🇬🇧 -> 🇮🇳
 
 NLP model to translate English text into Hinglish.
 
 Hinglish is a blend of words between Hindi & English
+
 Eg;
+
 English: Mahatma Gandhi is the father of the nation of India
+
 Hindi: महात्मा गांधी भारत के राष्ट्रपिता हैं
+
 Hinglish: Mahatma Gandhi bharat ke rashtrapita hae
 
 Built by [Kamal Kant](https://kama1kant.com/)
