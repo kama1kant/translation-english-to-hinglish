@@ -1,6 +1,6 @@
 # Translation English to Hinglish 🇬🇧 -> 🇮🇳
 
-NLP model to translate English text into Hinglish.
+NLP library to translate English text into Hinglish.
 
 Hinglish is a blend of words between Hindi & English
 
